@@ -1,0 +1,6 @@
+{
+  "Name": "WebPageDataEntryAutomation",
+  "ProjectType": "Process",
+  "Description": "WebPageDataEntryAutomation",
+  "MainFile": "Main.xaml"
+}
