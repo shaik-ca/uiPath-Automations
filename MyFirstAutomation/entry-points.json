@@ -2,6 +2,11 @@
   "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
   "entryPoints": [
     {
+      "filePath": "ExcelAutomation.xaml",
+      "uniqueId": "d27082db-b799-4830-9eb9-c4cc29d7b6e6",
+      "type": "process"
+    },
+    {
       "filePath": "Main.xaml",
       "uniqueId": "daf0c755-486f-4ad1-a918-64d1662d2b10",
       "type": "process"

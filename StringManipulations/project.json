@@ -1,17 +1,20 @@
 {
-  "name": "MyFirstAutomation",
-  "projectId": "a163a5cc-1cad-4823-8741-8c6defef939f",
+  "name": "StringManipulations",
+  "projectId": "0f496828-203c-4b69-a71c-51e848f39f73",
   "description": "Blank Process",
-  "main": "ExcelAutomation.xaml",
+  "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[3.2.1]",
-    "UiPath.System.Activities": "[25.8.1]"
+    "UiPath.Excel.Activities": "[3.3.0-preview]",
+    "UiPath.Mail.Activities": "[2.5.0-preview]",
+    "UiPath.System.Activities": "[25.10.2]",
+    "UiPath.Testing.Activities": "[25.10.0]",
+    "UiPath.UIAutomation.Activities": "[25.10.16]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "25.0.176.0",
-  "projectVersion": "1.0.1",
+  "studioVersion": "25.10.1.0",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -46,13 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "daf0c755-486f-4ad1-a918-64d1662d2b10",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "ExcelAutomation.xaml",
-      "uniqueId": "d27082db-b799-4830-9eb9-c4cc29d7b6e6",
+      "uniqueId": "1de43bb0-dd30-4389-a99e-a03f9ab544bb",
       "input": [],
       "output": []
     }
