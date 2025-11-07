@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Uipath viesos - Google Search",
+  "Type": "Screen",
+  "Id": "FjRpSFyYb02qT78NUwhjsg",
+  "Reference": "BJJA9ZiOO0yhtsB6ZBTngQ/FjRpSFyYb02qT78NUwhjsg",
+  "ParentRef": "BJJA9ZiOO0yhtsB6ZBTngQ/DgFASbplcECmIQJ-Clhk-A",
+  "Created": "2025-11-07T05:06:58.3681671Z",
+  "Updated": "2025-11-07T05:06:58.3681671Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eC_Ni5pdhEe7lgb0CSZpHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="ec5e7bd3-a5d9-4519-9e3a-64716969b0df" CvType="AnyWordGroup" DesignTimeRectangle="272, 562, 220, 39" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='rso' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='H3' type='' innertext='RPA Video Tutorials' /&gt;" Guid="437187dd-08cd-4eea-bbf9-6f845fbf6677" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Uipath viesos - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a20834849c47a4ff979b452e023cfccd.png" xmlns="">04DRshHrKRk2ZdESbUrLl0g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Uipath viesos - Google Search",
+  "Type": "App",
+  "Id": "OwHjMH5Tck2ftBa3QO3obA",
+  "Reference": "BJJA9ZiOO0yhtsB6ZBTngQ/OwHjMH5Tck2ftBa3QO3obA",
+  "Created": "2025-11-07T05:06:58.025248Z",
+  "Updated": "2025-11-07T05:06:58.025248Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

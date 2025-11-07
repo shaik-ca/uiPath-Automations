@@ -1,0 +1,14 @@
+﻿{
+  "Name": "UiPath Beginners Course…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "4z2BaZOzO0ybGOddpgPQKw",
+  "Reference": "BJJA9ZiOO0yhtsB6ZBTngQ/4z2BaZOzO0ybGOddpgPQKw",
+  "ParentRef": "BJJA9ZiOO0yhtsB6ZBTngQ/FjRpSFyYb02qT78NUwhjsg",
+  "Created": "2025-11-07T05:10:00.1391728Z",
+  "Updated": "2025-11-07T05:10:00.1391728Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
