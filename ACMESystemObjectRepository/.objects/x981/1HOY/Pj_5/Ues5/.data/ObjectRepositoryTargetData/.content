@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-aHLKou2-EGem6KstxBdhQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/employees" CVScreenId="0a1b10e5-433e-41f7-8ed1-d0b0227f87f5" CvElementArea="791, 427, 57, 45" CvType="Icon" DesignTimeRectangle="795, 429, 49, 45" DesignTimeScaleFactor="1.25" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='I' /&gt;" Guid="102ff638-29ff-4a46-b99a-915765f02e64" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADUAAAAxCAYAAAB6d+FmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJJSURBVGhD7Zkxa9tAGIb7nwzBmxdtmoyhgRKRIe4WqDKIDKJLivEkNBWChppA8NSCNRjkIRmKoSBDMQQ8FG458CAM+gtvldjGd/bZjnMSli4ansn3nu9Bx3efdB/iOIZqlFJF4R1IzSjCrgPrcx26rhcAA2bLQ/AUbZGajeGdV1GpVIrHiQa7TzelQlcXB4rCiQl/ykmFcHTBwIJh/ppvw4VUAIsboMP64cPv5Zv2ObvmCk5vJ7ukTuE9zR9lngmu2TWXUvklW6lZhPHjaq8//KWIRONSJjMpOmijXmWzc6qNG/j/xJm0yESK9i1oXG4NzUJAxdk0SF9qmmRqbGYLF10QUX5B+N0QtD8CGjZ8wmdTlyL3TWb8LnbNNYH3UZQRY/X5fOpSw281Zvxu1hezIoJ/Jc5sosMZ8fmcSsmR0+0nR24LRTylIIS8gs2zL32pBPmSTtC9EOSE1HDzm89nIvUMfZQ5fJPq92kzuw17wOczk3pBok0ifzpwvtqw99C+9TFevAQuyVbqSJRS+6ToyIfXstBs6DC+tOH1QkyW1SlKqtkkRHDnwDxL2pszE7bbRUj4Lz5Ljt8mRWN0LjVm3CFUYbhDUG7OY7dJz5/QDqhU26i7ITPvkdukqGcyv8tgoJPSe5a01PoEMjTvCTf3W5GUOuyQ3Mfyz2UppUTbb9h6a9VbR0vaHXF5PxRpqZcbkcHP5HwStzGvwu0gGK0+5MsiL5VDSilFpZS49VDyfkrJm8QEFe9852Kq3c4rRClVFEqpoqCgVIz/lHYMPGKaCZUAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0a1b10e5-433e-41f7-8ed1-d0b0227f87f5" CvTextArea="869, 436, 219, 26" CvTextArgument="Brad M Roberts" CvType="Text" DesignTimeRectangle="869, 429, 219, 45" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='name' tag='DIV' type='' aaname='{EmployeeName}' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Brad M Roberts' /&gt;" Guid="ec25a625-c0e3-4409-ab4a-281ca223e4de" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="3c88034c6c4118f46cec555641a694f7.png" xmlns="">0v8mZQ7x8-kaNIhIg8pVEzQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
